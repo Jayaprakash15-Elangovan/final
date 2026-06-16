@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 the text2 file
 next change inthis file 
+=======
+the content
+>>>>>>> 106302083c2a90fc62b6853d777e0a6ad75afca4
